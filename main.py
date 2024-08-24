@@ -14,4 +14,10 @@ if __name__ == '__main__':
     print_hi('Hello to the World!')
     print_hi('I am from Pakistan')
 
+    print("The more you go high, the more cold it feel")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+# Control + K
+# control + T
